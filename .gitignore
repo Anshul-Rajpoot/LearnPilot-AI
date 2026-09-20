@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.streamlit/
+.env
+prompt.txt
+response.txt
+
+embeddings.joblib
